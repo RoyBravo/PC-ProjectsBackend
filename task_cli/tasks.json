@@ -1,0 +1,16 @@
+[
+    {
+        "id": 2,
+        "description": "Comprar leche",
+        "status": "in-progress",
+        "createdAt": "2026-01-03T07:14:21.054557",
+        "updatedAt": "2026-01-03T07:15:05.294451"
+    },
+    {
+        "id": 3,
+        "description": "Estudiar Python",
+        "status": "todo",
+        "createdAt": "2026-01-03T07:14:36.948908",
+        "updatedAt": "2026-01-03T07:14:36.948929"
+    }
+]
